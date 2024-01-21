@@ -1,5 +1,5 @@
 dnspython==2.3.0
 gitpython
 motor
-pyrogram
+pyrofork
 python-dotenv
