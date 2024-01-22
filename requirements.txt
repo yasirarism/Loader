@@ -1,5 +1,7 @@
 dnspython==2.3.0
-gitpython
+heroku3
 motor
-pyrofork
+pyrogram==2.0.106
+tgcrypto
 python-dotenv
+gitpython
